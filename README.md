@@ -1,24 +1,26 @@
 <h1 align="center">Hi 👋, I'm Chase Kliment</h1>
-<h3 align="center">A Software Engineer with a background in Management,Financial Services, and Business Analytics.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wckliment&label=Profile%20views&color=0e75b6&style=flat" alt="wckliment" /> </p>
+<h3 align="center">A Software Engineer with a background in Management,Financial Services,and Business Analytics.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wckliment" alt="wckliment" /></a> </p>
 
 - 🔭 Check out some of my projects! [BoundTogether](https://boundtogether.onrender.com/)
 
-- 👨‍💻 All of my projects are available at [https://wckliment.github.io/](https://wckliment.github.io/)
+- More projects here 👉 [HomeHopper](https://homehopper.onrender.com/)
 
-- 💬 Ask me about **react, python, flask, sequelize, postgreSql**
+- How about another one 👀 [Clevernote](https://clevernote-vfum.onrender.com/)
+
+- 👨‍💻 Personal Website [https://wckliment.github.io/](https://wckliment.github.io/)
+
+- 💬 Ask me about **Java Script, React, Python, Flask, Sequelize, PostgreSql, MongoDB**
 
 - 📫 How to reach me **stepintoliquidd@gmail.com**
 
-- ⚡ Fun fact **I want to fly!**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@wckliment" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@wckliment" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wchasekliment/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wchasekliment/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wchasekliment" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wchasekliment" height="30" width="40" /></a>
 <a href="https://fb.com/solarflaarrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solarflaarrz" height="30" width="40" /></a>
 <a href="https://instagram.com/solarflaarrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solarflaarrz" height="30" width="40" /></a>
 </p>
@@ -29,4 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wckliment&show_icons=true&locale=en&layout=compact" alt="wckliment" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wckliment&show_icons=true&locale=en" alt="wckliment" /></p>
+
 
