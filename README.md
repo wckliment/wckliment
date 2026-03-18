@@ -32,6 +32,16 @@ Public repositories here represent experiments or prior work that can be shared 
   Contributed to backend architecture and AI orchestration systems powering multi-layer LLM workflows, structured validation pipelines, and stateful conversation logic in a live production environment.
 - **MoodJi Sports (AI Systems Platform – In Development)**  
   Backend and AI workflow architecture for a sports-focused emotional intelligence platform, including multi-stage AI routing, structured tone/frequency mapping logic, and deterministic processing layers designed for scalability.
+
+### Personal Projects
+
+These projects represent independent system design and experimentation outside of client work, focused on building production-style systems and exploring advanced backend and AI architecture patterns.
+
+- **VectorMind** — Production-style RAG system with retrieval explainability  
+  Hybrid retrieval (BM25 + vector), MMR re-ranking, LLM reranking, streaming responses, and chunk-level citation tracing with a retrieval debug panel.  
+  → https://github.com/YOUR_USERNAME/vectormind
+
+- *(More projects coming soon — building a focused series around AI workflows, retrieval systems, and backend architecture patterns.)*
    
 🔗 LinkedIn: https://linkedin.com/in/wchasekliment  
 
