@@ -39,7 +39,7 @@ These projects represent independent system design and experimentation outside o
 
 - **VectorMind** — Production-style RAG system with retrieval explainability  
   Hybrid retrieval (BM25 + vector), MMR re-ranking, LLM reranking, streaming responses, and chunk-level citation tracing with a retrieval debug panel.  
-  → https://github.com/YOUR_USERNAME/vectormind](https://github.com/wckliment/vectormind
+  → https://github.com/wckliment/vectormind
 
 - *(More projects coming soon — building a focused series around AI workflows, retrieval systems, and backend architecture patterns.)*
    
