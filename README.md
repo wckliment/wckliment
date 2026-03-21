@@ -1,4 +1,4 @@
-![Profile Banner](https://via.placeholder.com/1200x200?text=AI+Systems+Engineer)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Chase%20Kliment&fontColor=ffffff&fontSize=40)
 
 
 ## Hi, I’m Chase Kliment 👋
