@@ -1,4 +1,4 @@
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Chase%20Kliment&fontColor=ffffff&fontSize=40)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=AI%20Systems%20Engineer&desc=Deterministic%20AI%20•%20Backend%20Architecture&descAlignY=65&fontColor=ffffff&fontSize=36&descSize=16)
 
 
 ## Hi, I’m Chase Kliment 👋
