@@ -1,52 +1,76 @@
 ## Hi, I’m Chase Kliment 👋
 
-I’m a senior backend engineer and systems architect specializing in AI-driven systems, payment workflows, and production-grade backend architecture.
+I design and stabilize production-grade AI systems.
 
-I design and stabilize complex systems where reliability, data integrity, and deterministic behavior matter.
+Most teams can call an API. Few build systems that hold up under real conditions—multi-step workflows, unreliable data, external dependencies, and LLM behavior that needs to be controlled, validated, and made observable.
 
-My work centers on:
-- Multi-stage AI workflow orchestration (LLM routing, tool execution, validation layers)
-- Stripe and webhook-driven payment systems with idempotent event handling
-- API integrations and event-driven architectures
-- Data modeling and normalization for scalable SaaS platforms
-- Hardening fragile systems before they scale
+That’s where I focus.
 
-I currently contribute to a confidential, early-stage AI platform under NDA,
-working across backend architecture, workflow orchestration, and technical leadership.
-Public repositories here represent experiments or prior work that can be shared openly.
+---
 
-### Core Technical Areas
-- AI workflow orchestration (OpenAI-based systems, agent-style pipelines)
-- Event-driven systems & webhook validation
-- Stripe integrations & multi-step payment flows
-- REST / GraphQL API design
-- Relational data modeling (Postgres/MySQL)
-- Python, Node.js, and TypeScript services
-- Logging, observability, and failure recovery design
+## What I Work On
 
-### Selected Professional Work
+- Deterministic AI workflow orchestration (LLM planning + controlled execution)  
+- Retrieval systems (hybrid search, reranking, explainability)  
+- API orchestration and event-driven architectures  
+- Stripe and webhook-based payment systems with safe, idempotent processing  
+- Hardening fragile systems before they scale  
 
-- **ikonPractice** — Custom dental SaaS platform  
-  Backend architecture, API integrations, payment logic, and production deployment for a domain-specific SaaS platform.
-- **MoodMe (Production Mobile App)** — Relationship intelligence platform deployed on iOS and Android  
-  Contributed to backend architecture and AI orchestration systems powering multi-layer LLM workflows, structured validation pipelines, and stateful conversation logic in a live production environment.
-- **MoodJi Sports (AI Systems Platform – In Development)**  
-  Backend and AI workflow architecture for a sports-focused emotional intelligence platform, including multi-stage AI routing, structured tone/frequency mapping logic, and deterministic processing layers designed for scalability.
+---
 
-### Personal Projects
+## Core Technical Areas
 
-These projects represent independent system design and experimentation outside of client work, focused on building production-style systems and exploring advanced backend and AI architecture patterns.
+- AI orchestration pipelines (planning, tool execution, validation layers)  
+- Retrieval-augmented systems (BM25, vector search, reranking)  
+- Event-driven backend systems & webhook validation  
+- REST / GraphQL API design  
+- Relational data modeling (Postgres/MySQL)  
+- Python, Node.js, TypeScript  
+- Observability, logging, and failure recovery  
 
-- **VectorMind** — Production-style RAG system with retrieval explainability  
-  Hybrid retrieval (BM25 + vector), MMR re-ranking, LLM reranking, streaming responses, and chunk-level citation tracing with a retrieval debug panel.  
-  → https://github.com/wckliment/vectormind
+---
 
-- *(More projects coming soon — building a focused series around AI workflows, retrieval systems, and backend architecture patterns.)*
-   
-🔗 LinkedIn: https://linkedin.com/in/wchasekliment  
+## Selected Work
 
-> Note: Due to NDAs, not all professional work is publicly visible here.
-> I’m happy to discuss architecture patterns, tradeoffs, and system design
-> decisions in detail.
+**ikonPractice — Custom dental SaaS platform**  
+Backend architecture, API integrations, and payment workflows for a production SaaS system.
+
+**MoodMe — Relationship intelligence platform (iOS + Android)**  
+Worked on backend architecture and AI orchestration powering structured multi-stage LLM workflows and validation pipelines.
+
+**MoodJi Sports — AI Systems Platform (In Development)**  
+Designing backend systems for multi-stage AI routing, deterministic processing layers, and structured tone/frequency mapping logic.
+
+---
+
+## Personal Projects
+
+These projects focus on building production-style systems—not demos.
+
+### Axon — Deterministic LLM Orchestration Engine  
+LLM generates structured plans. Runtime executes them deterministically with validation and full traceability.  
+→ https://github.com/wckliment/Axon
+
+### VectorMind — Production RAG System  
+Hybrid retrieval (BM25 + vector), MMR re-ranking, LLM reranking, and retrieval explainability with trace-level visibility.  
+→ https://github.com/wckliment/vectormind  
+
+---
+
+## Approach
+
+- Deterministic > clever  
+- Observable > opaque  
+- Systems > scripts  
+
+---
+
+## Notes
+
+Due to NDAs, not all professional work is publicly visible. I’m happy to discuss architecture decisions, tradeoffs, and system design in detail.
+
+---
+
+🔗 LinkedIn: https://linkedin.com/in/wckliment
 
 
