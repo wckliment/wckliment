@@ -1,3 +1,6 @@
+![Profile Banner](https://via.placeholder.com/1200x200?text=AI+Systems+Engineer)
+
+
 ## Hi, I’m Chase Kliment 👋
 
 I design and stabilize production-grade AI systems.
